@@ -45,7 +45,7 @@
 
 ---
 
-## 4. NON-FUNCTIONAL REQUIREMENTS
+# NON-FUNCTIONAL REQUIREMENTS
 | Area | Target |
 |------|--------|
 | **Performance** | ≤30ms input latency; ≥60 FPS desktop / ≥30 FPS tablet |
@@ -58,6 +58,11 @@
 | **Cross-Browser** | Feature parity across all supported browsers |
 
 ---
+
+## 4. Context diagram:
+<img src="images/contextD.png" alt="Use Case Diagrams Page 1">
+
+
 
 ## 5. RELEASE ROADMAP
 - **v1.0 (Current):** Canvas engine, toolset, layers, save/export, auth, responsive UI
